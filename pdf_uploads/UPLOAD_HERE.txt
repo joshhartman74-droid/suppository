@@ -1,0 +1,45 @@
+================================================================================
+                    UPLOAD YOUR PDF FILE HERE
+================================================================================
+
+  Directory: /workspace/joshhartman74-droid__suppository/pdf_uploads/
+
+  ================================================================================
+
+  HOW TO UPLOAD:
+
+  1. DRAG AND DROP: Simply drag your PDF file and drop it into this folder
+     
+  2. FILE BROWSER: Click "Upload" or "Browse" and select your PDF file
+     
+  3. COMMAND LINE: Run this command:
+     cp /path/to/your/file.pdf /workspace/joshhartman74-droid__suppository/pdf_uploads/
+
+  ================================================================================
+
+  AFTER UPLOADING:
+
+  Run this command to process your PDF:
+
+  python pdf_filter_mistral.py \
+      --pdf pdf_uploads/your_file.pdf \
+      --output pdf_uploads/filtered_your_file.pdf \
+      --json-output pdf_uploads/your_file_schemas.json \
+      --workers 1 \
+      --dpi 150
+
+  ================================================================================
+
+  CURRENT FILES IN THIS FOLDER:
+
+  (This will show your uploaded files once they're here)
+
+  ================================================================================
+
+  NEED HELP?
+  - Your API key is stored securely and working
+  - The system has been tested successfully with test PDFs
+  - For a 300MB PDF, processing may take 5-15 minutes
+  - Use --workers 1 and --dpi 150 for best results with large files
+
+  ================================================================================

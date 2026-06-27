@@ -1,0 +1,57 @@
+[
+  {
+    "page_number": 1,
+    "total_pages": 5,
+    "page_text": "page 1 of 5\n\nThis is the content for page 1\nSample text to test OCR processing.",
+    "has_page_indicator": true,
+    "page_indicator_text": "page 1 of 5",
+    "top_right_text": "page 1 of 5 This is the content for page 1 Sample text to test OCR processing.",
+    "is_valid_page": true,
+    "confidence": 0.95,
+    "processing_time": 3.197
+  },
+  {
+    "page_number": 2,
+    "total_pages": 5,
+    "page_text": "page 2 of 5\n\nThis is the content for page 2\nSample text to test OCR processing.",
+    "has_page_indicator": true,
+    "page_indicator_text": "page 2 of 5",
+    "top_right_text": "page 2 of 5 This is the content for page 2 Sample text to test OCR processing.",
+    "is_valid_page": true,
+    "confidence": 0.95,
+    "processing_time": 1.41
+  },
+  {
+    "page_number": 3,
+    "total_pages": 5,
+    "page_text": "page 3 of 5\n\nThis is the content for page 3\nSample text to test OCR processing.",
+    "has_page_indicator": true,
+    "page_indicator_text": "page 3 of 5",
+    "top_right_text": "page 3 of 5 This is the content for page 3 Sample text to test OCR processing.",
+    "is_valid_page": true,
+    "confidence": 0.95,
+    "processing_time": 1.787
+  },
+  {
+    "page_number": 4,
+    "total_pages": 5,
+    "page_text": "page 4 of 5\n\nThis is the content for page 4\nSample text to test OCR processing.",
+    "has_page_indicator": true,
+    "page_indicator_text": "page 4 of 5",
+    "top_right_text": "page 4 of 5 This is the content for page 4 Sample text to test OCR processing.",
+    "is_valid_page": true,
+    "confidence": 0.95,
+    "processing_time": 1.341
+  },
+  {
+    "page_number": 5,
+    "total_pages": 5,
+    "page_text": "page 5 of 5\n\nThis is the content for page 5\nSample text to test OCR processing.",
+    "has_page_indicator": true,
+    "page_indicator_text": "page 5 of 5",
+    "top_right_text": "page 5 of 5 This is the content for page 5 Sample text to test OCR processing.",
+    "is_valid_page": true,
+    "confidence": 0.95,
+    "processing_time": 1.47
+  }
+]
